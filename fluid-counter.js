@@ -1,4 +1,4 @@
-FluidCounters = new Meteor.Collection('fluidCounter');
+FluidCounters = new Meteor.Collection('fluid_counters');
 
 if (Meteor.isServer) {
 	getNextSequence =function(collection) {

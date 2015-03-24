@@ -1,11 +1,13 @@
 # meteor-fluid-counter
 Counters stored in MongoDB
 
-This package automatically generates a counter in mongoDB. It use a collection named "fluid_counters".
+This package automatically generates a counter in mongoDB.
+
+It use a collection named "fluid_counters".
 
 ## Install
 ``` js
-meteor add stivaugoin:fluit-counter
+meteor add stivaugoin:fluid-counter
 ```
 
 ## Usage

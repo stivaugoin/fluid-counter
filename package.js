@@ -2,7 +2,7 @@ Package.describe({
 	name: 'stivaugoin:fluid-counter',
 	version: '0.0.1',
 	summary: 'Counters stored in MongoDB',
-	git: 'https://github.com/stivaugoin/fluid-counter.git',
+	git: 'https://github.com/stivaugoin/meteor-fluid-counter.git',
 	documentation: 'README.md'
 });
 
